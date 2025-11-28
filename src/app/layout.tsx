@@ -5,8 +5,8 @@ import { Footer } from '@/components/layout/footer';
 import { Toaster } from '@/components/ui/toaster';
 
 export const metadata: Metadata = {
-  title: 'Desa Bandar Asri',
-  description: 'Website Resmi Desa Bandar Asri',
+  title: 'Desa Bandar',
+  description: 'Website Resmi Desa Bandar',
 };
 
 export default function RootLayout({

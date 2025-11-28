@@ -13,7 +13,7 @@ const potentials = [
   {
     icon: TramFront,
     title: "Pariwisata Alam",
-    description: "Air terjun tersembunyi, Curug Asri, dan jalur trekking menantang bagi para petualang di perbukitan sekitar desa.",
+    description: "Air terjun tersembunyi, Curug, dan jalur trekking menantang bagi para petualang di perbukitan sekitar desa.",
     imageId: "potential-2",
   },
   {
@@ -46,9 +46,9 @@ export default function PotensiPage() {
   return (
     <div className="container mx-auto px-4 py-12 md:px-6 md:py-16">
       <header className="text-center mb-12">
-        <h1 className="text-4xl md:text-5xl font-bold font-headline text-primary">Potensi Desa Bandar Asri</h1>
+        <h1 className="text-4xl md:text-5xl font-bold font-headline text-primary">Potensi Desa Bandar</h1>
         <p className="mt-4 text-lg text-muted-foreground max-w-3xl mx-auto">
-          Menjelajahi berbagai kekayaan alam, budaya, dan ekonomi yang menjadi kekuatan dan harapan masa depan Desa Bandar Asri.
+          Menjelajahi berbagai kekayaan alam, budaya, dan ekonomi yang menjadi kekuatan dan harapan masa depan Desa Bandar.
         </p>
       </header>
       

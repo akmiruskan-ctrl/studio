@@ -44,7 +44,7 @@ export default function AdminDashboardPage() {
           <CardTitle>Selamat Datang, Admin!</CardTitle>
         </CardHeader>
         <CardContent>
-            <p>Anda berada di panel admin Desa Bandar Asri. Dari sini, Anda dapat mengelola berbagai konten yang ditampilkan di website.</p>
+            <p>Anda berada di panel admin Desa Bandar. Dari sini, Anda dapat mengelola berbagai konten yang ditampilkan di website.</p>
             <p className="mt-2">Gunakan navigasi di sebelah kiri untuk mengakses menu pengelolaan yang tersedia.</p>
         </CardContent>
       </Card>

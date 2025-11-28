@@ -8,9 +8,9 @@ export default function ProfilPage() {
   return (
     <div className="container mx-auto px-4 py-12 md:px-6 md:py-16">
       <header className="text-center mb-12">
-        <h1 className="text-4xl md:text-5xl font-bold font-headline text-primary">Profil Desa Bandar Asri</h1>
+        <h1 className="text-4xl md:text-5xl font-bold font-headline text-primary">Profil Desa Bandar</h1>
         <p className="mt-4 text-lg text-muted-foreground max-w-3xl mx-auto">
-          Mengenal lebih dekat Desa Bandar Asri, dari sejarah hingga potensi yang dimiliki.
+          Mengenal lebih dekat Desa Bandar, dari sejarah hingga potensi yang dimiliki.
         </p>
       </header>
       
@@ -25,8 +25,8 @@ export default function ProfilPage() {
                 </div>
               </CardHeader>
               <CardContent className="p-0 text-muted-foreground space-y-4">
-                <p>Desa Bandar Asri memiliki sejarah panjang yang berakar dari sebuah perkampungan kecil di tepi sungai. Didirikan oleh para perantau pada awal abad ke-19, desa ini tumbuh menjadi pusat perdagangan lokal berkat lokasinya yang strategis.</p>
-                <p>Nama "Bandar Asri" sendiri mencerminkan harapan para pendirinya akan sebuah pelabuhan (bandar) yang ramai namun tetap indah dan nyaman (asri). Nilai-nilai gotong royong dan kebersamaan yang diwariskan leluhur masih kental terasa hingga kini, menjadi fondasi utama dalam setiap pembangunan desa.</p>
+                <p>Desa Bandar memiliki sejarah panjang yang berakar dari sebuah perkampungan kecil di tepi sungai. Didirikan oleh para perantau pada awal abad ke-19, desa ini tumbuh menjadi pusat perdagangan lokal berkat lokasinya yang strategis.</p>
+                <p>Nama "Bandar" sendiri mencerminkan harapan para pendirinya akan sebuah pelabuhan yang ramai. Nilai-nilai gotong royong dan kebersamaan yang diwariskan leluhur masih kental terasa hingga kini, menjadi fondasi utama dalam setiap pembangunan desa.</p>
               </CardContent>
             </div>
             {profileImage && (
