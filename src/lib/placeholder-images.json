@@ -3,7 +3,7 @@
     {
       "id": "hero-1",
       "description": "Pemandangan sungai yang mengalir di antara perkebunan karet di Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU.",
-      "imageUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyaXZlciUyMGp1bmdsZXxlbnwwfHx8fDE3NjQzMDQwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyaXZlciUyMHBsYW50YXRpb258ZW58MHx8fHwxNzY0MzA0MDkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "river plantation"
     },
     {
@@ -51,7 +51,7 @@
     {
       "id": "potential-5",
       "description": "Upacara adat tradisional dengan pakaian khas.",
-      "imageUrl": "https://images.unsplash.com/photo-1679141435935-7d8ff9659c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjdWx0dXJhbCUyMGNlcmVtb255fGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1679141435935-7d8ff9659c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjdWx0dXJhbCUyMGNlcmVtb255fGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlibrb-4.1.0&q=80&w=1080",
       "imageHint": "cultural ceremony"
     },
     {
@@ -69,49 +69,49 @@
     {
       "id": "gallery-1",
       "description": "Anak-anak bermain di sungai yang jernih.",
-      "imageUrl": "https://images.unsplash.com/photo-1647733389138-ab36381ed79f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaGlsZHJlbiUyMHJpdmVyfGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1647733389138-ab36381ed79f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaGlsZHJlbiUyMHJpdmVyfGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "children river"
     },
     {
       "id": "gallery-2",
       "description": "Ibu-ibu sedang membatik bersama.",
-      "imageUrl": "https://images.unsplash.com/photo-1757076952608-4baa9cdf89fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b21lbiUyMGJhdGlrfGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1757076952608-4baa9cdf89fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b21lbiUyMGJhdGlrfGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "women batik"
     },
     {
       "id": "gallery-3",
       "description": "Pemandangan matahari terbenam di atas bukit.",
-      "imageUrl": "https://images.unsplash.com/photo-1748549544784-16c12cd5f2e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoaWxsJTIwc3Vuc2V0fGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1748549544784-16c12cd5f2e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoaWxsJTIwc3Vuc2V0fGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "hill sunset"
     },
     {
       "id": "gallery-4",
       "description": "Pasar desa yang ramai di pagi hari.",
-      "imageUrl": "https://images.unsplash.com/photo-1668939111150-b284e3688afe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2aWxsYWdlJTIwbWFya2V0fGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1668939111150-b284e3688afe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2aWxsYWdlJTIwbWFya2V0fGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "village market"
     },
     {
       "id": "gallery-5",
       "description": "Seorang petani sedang merawat padinya.",
-      "imageUrl": "https://images.unsplash.com/photo-1645601475104-99cc2525c1ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmYXJtZXIlMjByaWNlfGVufDB8fHx8MTc2NDI2MTk4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1645601475104-99cc2525c1ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmYXJtZXIlMjByaWNlfGVufDB8fHx8MTc2NDI2MTk4OHww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "farmer rice"
     },
     {
       "id": "gallery-6",
       "description": "Detail ukiran kayu dari pengrajin lokal.",
-      "imageUrl": "https://images.unsplash.com/photo-1598581415509-af28687de862?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3b29kJTIwY2FydmluZ3xlbnwwfHx8fDE3NjQyMzE3NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1598581415509-af28687de862?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3b29kJTIwY2FydmluZ3xlbnwwfHx8fDE3NjQyMzE3NjV8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "wood carving"
     },
     {
       "id": "gallery-7",
       "description": "Jajanan pasar tradisional yang disajikan di atas daun pisang.",
-      "imageUrl": "https://images.unsplash.com/photo-1635704230244-1acb9475a615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dHJhZGl0aW9uYWwlMjBmb29kfGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1635704230244-1acb9475a615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dHJhZGl0aW9uYWwlMjBmb29kfGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "traditional food"
     },
     {
       "id": "gallery-8",
       "description": "Pertunjukan tari tradisional oleh anak-anak.",
-      "imageUrl": "https://images.unsplash.com/photo-1700324781657-bb71b4534ad0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0cmFkaXRpb25hbCUyMGRhbmNlfGVufDB8fHx8MTc2NDIzMTY0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1700324781657-bb71b4534ad0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0cmFkaXRpb25hbCUyMGRhbmNlfGVufDB8fHx8MTc2NDIzMTY0Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "traditional dance"
     }
   ]
