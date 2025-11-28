@@ -2,9 +2,9 @@
   "placeholderImages": [
     {
       "id": "hero-1",
-      "description": "Pemandangan sungai dan perkebunan di Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU.",
-      "imageUrl": "https://images.unsplash.com/photo-1582882622505-ea5c4415c104?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyaXZlciUyMHJ1YmJlciUyMHBsYW50YXRpb258ZW58MHx8fHwxNzY0MzA0MjYxfDA&ixlib=rb-4.0.3&q=80&w=1080",
-      "imageHint": "river plantation"
+      "description": "Pemandangan pegunungan hijau di Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU.",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxHcmVlbiUyMG1vdW50YWlufGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "green mountain"
     },
     {
       "id": "news-1",
@@ -21,13 +21,13 @@
     {
       "id": "news-3",
       "description": "Pelaku UMKM sedang mengikuti pelatihan digital di balai desa.",
-      "imageUrl": "https://images.unsplash.com/photo-1580893195730-1282f408b0d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkaWdpdGFsJTIwd29ya3Nob3B8ZW58MHx8fHwxNzY0Mjk5MDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1580893195730-1282f408b0d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkaWdpdGFsJTIwd29ya3Nob3B8ZW58MHx8fHwxNzY0Mjk5MDIzfDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "digital workshop"
     },
     {
       "id": "potential-1",
       "description": "Hamparan sawah hijau yang subur.",
-      "imageUrl": "https://images.unsplash.com/photo-1713669637183-e01a0650f44a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxncmVlbiUyMGZpZWxkc3xlbnwwfHx8fDE3NjQyOTkwMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1713669637183-e01a0650f44a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxncmVlbiUyMGZpZWxkc3xlbnwwfHx8fDE3NjQyOTkwMjJ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "green fields"
     },
     {
