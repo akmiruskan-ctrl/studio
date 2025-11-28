@@ -3,7 +3,7 @@
     {
       "id": "hero-1",
       "description": "Pemandangan sungai yang mengalir di antara perkebunan karet di Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU.",
-      "imageUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyaXZlciUyMHBsYW50YXRpb258ZW58MHx8fHwxNzY0MzA0MDkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyaXZlciUyMHBsYW50YXRpb258ZW58MHx8fHwxNzY0MzA0MDkwfDA&ixlib=rb-4.1.0&q=80&w=1920",
       "imageHint": "river plantation"
     },
     {
@@ -21,7 +21,7 @@
     {
       "id": "news-3",
       "description": "Pelaku UMKM sedang mengikuti pelatihan digital di balai desa.",
-      "imageUrl": "https://images.unsplash.com/photo-1580893195730-1282f408b0d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkaWdpdGFsJTIwd29ya3Nob3B8ZW58MHx8fHwxNzY0Mjk5MDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1580893195730-1282f408b0d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkaWdpdGFsJTIwd29ya3Nob3B8ZW58MHx8fHwxNzY0Mjk5MDIzfDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "digital workshop"
     },
     {
@@ -39,25 +39,25 @@
     {
       "id": "potential-3",
       "description": "Kerajinan tangan dari bambu yang dipajang.",
-      "imageUrl": "https://images.unsplash.com/photo-1759142761123-9ab45592b5f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiYW1ib28lMjBjcmFmdHN8ZW58MHx8fHwxNzY0Mjk5MDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1759142761123-9ab45592b5f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiYW1ib28lMjBjcmFmdHN8ZW58MHx8fHwxNzY0Mjk5MDIzfDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "bamboo crafts"
     },
     {
       "id": "potential-4",
       "description": "Mata air jernih yang mengalir di antara bebatuan.",
-      "imageUrl": "https://images.unsplash.com/photo-1652387522101-2382263b115c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjbGVhciUyMHNwcmluZ3xlbnwwfHx8fDE3NjQyOTkwMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1652387522101-2382263b115c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjbGVhciUyMHNwcmluZ3xlbnwwfHx8fDE3NjQyOTkwMjN8MA&ixlibrb-4.1.0&q=80&w=1080",
       "imageHint": "clear spring"
     },
     {
       "id": "potential-5",
       "description": "Upacara adat tradisional dengan pakaian khas.",
-      "imageUrl": "https://images.unsplash.com/photo-1679141435935-7d8ff9659c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjdWx0dXJhbCUyMGNlcmVtb255fGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlibrb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1679141435935-7d8ff9659c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjdWx0dXJhbCUyMGNlcmVtb255fGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "cultural ceremony"
     },
     {
       "id": "potential-6",
       "description": "Panel surya terpasang di atap rumah warga.",
-      "imageUrl": "https://images.unsplash.com/photo-1668097613572-40b7c11c8727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzb2xhciUyMHBhbmVsc3xlbnwwfHx8fDE3NjQyMTA5MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1668097613572-40b7c11c8727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzb2xhciUyMHBhbmVsc3xlbnwwfHx8fDE3NjQyMTA5MDZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "solar panels"
     },
     {
@@ -69,7 +69,7 @@
     {
       "id": "gallery-1",
       "description": "Anak-anak bermain di sungai yang jernih.",
-      "imageUrl": "https://images.unsplash.com/photo-1647733389138-ab36381ed79f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaGlsZHJlbiUyMHJpdmVyfGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1647733389138-ab36381ed79f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaGlsZHJlbiUyMHJpdmVyfGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "children river"
     },
     {
