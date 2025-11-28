@@ -9,8 +9,8 @@ import { Toaster } from '@/components/ui/toaster';
 import '../globals.css';
 
 export const metadata: Metadata = {
-  title: 'Admin - Desa Bandar',
-  description: 'Admin panel for Desa Bandar website',
+  title: 'Admin - Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU',
+  description: 'Admin panel for Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU website',
   robots: {
     index: false,
     follow: false,

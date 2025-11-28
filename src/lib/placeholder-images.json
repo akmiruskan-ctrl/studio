@@ -2,7 +2,7 @@
   "placeholderImages": [
     {
       "id": "hero-1",
-      "description": "Pemandangan sawah terasering yang hijau di Desa Bandar saat matahari terbit.",
+      "description": "Pemandangan sawah terasering yang hijau di Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU saat matahari terbit.",
       "imageUrl": "https://images.unsplash.com/photo-1578754068182-91ea7ae12471?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyaWNlJTIwdGVycmFjZXN8ZW58MHx8fHwxNzY0MjMxNzY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "rice terraces"
     },
@@ -62,7 +62,7 @@
     },
     {
       "id": "profile-1",
-      "description": "Gapura selamat datang di Desa Bandar.",
+      "description": "Gapura selamat datang di Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU.",
       "imageUrl": "https://images.unsplash.com/photo-1617638967026-9ca207b21d14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx2aWxsYWdlJTIwZ2F0ZXxlbnwwfHx8fDE3NjQyOTkwMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "village gate"
     },

@@ -10,7 +10,7 @@ export default function GaleriPage() {
       <header className="text-center mb-12">
         <h1 className="text-4xl md:text-5xl font-bold font-headline text-primary">Galeri Desa</h1>
         <p className="mt-4 text-lg text-muted-foreground max-w-3xl mx-auto">
-          Jelajahi keindahan, budaya, dan kehidupan sehari-hari di Desa Bandar melalui koleksi foto kami.
+          Jelajahi keindahan, budaya, dan kehidupan sehari-hari di Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU melalui koleksi foto kami.
         </p>
       </header>
       
