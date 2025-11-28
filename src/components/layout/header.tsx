@@ -26,7 +26,7 @@ export function Header() {
       <div className="container mx-auto flex h-16 items-center justify-between px-4 md:px-6">
         <Link href="/" className="flex items-center gap-2 font-bold text-lg">
           <Mountain className="h-6 w-6 text-primary" />
-          <span className="font-headline">Bandar Asri</span>
+          <span className="font-headline">Kecamatan sosoh buay rayap kab. OKU</span>
         </Link>
 
         <nav className="hidden items-center gap-6 md:flex">
@@ -56,7 +56,7 @@ export function Header() {
               <div className="flex flex-col gap-6 p-6">
                 <Link href="/" className="flex items-center gap-2 font-bold text-lg" onClick={() => setIsMenuOpen(false)}>
                   <Mountain className="h-6 w-6 text-primary" />
-                  <span className="font-headline">Bandar Asri</span>
+                  <span className="font-headline">Kecamatan sosoh buay rayap kab. OKU</span>
                 </Link>
                 <nav className="grid gap-4">
                   {navLinks.map((link) => (

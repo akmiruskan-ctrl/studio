@@ -25,7 +25,7 @@ function AdminSidebar() {
         <div className="flex h-14 items-center border-b px-4 lg:h-[60px] lg:px-6">
           <Link href="/" className="flex items-center gap-2 font-semibold">
             <Mountain className="h-6 w-6 text-primary" />
-            <span className="font-headline">Bandar Asri</span>
+            <span className="font-headline">Kecamatan sosoh buay rayap kab. OKU</span>
           </Link>
         </div>
         <div className="flex-1">
@@ -72,7 +72,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
                   <nav className="grid gap-2 text-lg font-medium">
                     <Link href="/" className="flex items-center gap-2 text-lg font-semibold mb-4">
                       <Mountain className="h-6 w-6 text-primary" />
-                      <span className="font-headline">Bandar Asri</span>
+                      <span className="font-headline">Kecamatan sosoh buay rayap kab. OKU</span>
                     </Link>
                     <AdminNav />
                   </nav>

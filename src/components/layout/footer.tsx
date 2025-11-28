@@ -10,7 +10,7 @@ export function Footer() {
         <div className="flex flex-col items-start gap-4">
           <Link href="/" className="flex items-center gap-2 font-bold text-xl">
             <Mountain className="h-7 w-7 text-primary" />
-            <span className="font-headline">Bandar Asri</span>
+            <span className="font-headline">Kecamatan sosoh buay rayap kab. OKU</span>
           </Link>
           <p className="text-sm text-muted-foreground">
             Desa digital yang maju, mandiri, dan sejahtera.
