@@ -2,9 +2,9 @@
   "placeholderImages": [
     {
       "id": "hero-1",
-      "description": "Pemandangan asri Desa Bandar dengan sawah hijau dan perbukitan.",
-      "imageUrl": "https://images.unsplash.com/photo-1665303699266-8bd8ca5c56b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsdXNoJTIwbGFuZHNjYXBlfGVufDB8fHx8MTc2NDMwMTI5NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "lush landscape"
+      "description": "Pemandangan sungai dan perkebunan di Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU.",
+      "imageUrl": "https://images.unsplash.com/photo-1582882622505-ea5c4415c104?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyaXZlciUyMHJ1YmJlciUyMHBsYW50YXRpb258ZW58MHx8fHwxNzY0MzA0MjYxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "river plantation"
     },
     {
       "id": "news-1",
@@ -27,13 +27,13 @@
     {
       "id": "potential-1",
       "description": "Hamparan sawah hijau yang subur.",
-      "imageUrl": "https://images.unsplash.com/photo-1713669637183-e01a0650f44a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxncmVlbiUyMGZpZWxkc3xlbnwwfHx8fDE3NjQyOTkwMjJ8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1713669637183-e01a0650f44a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxncmVlbiUyMGZpZWxkc3xlbnwwfHx8fDE3NjQyOTkwMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "green fields"
     },
     {
       "id": "potential-2",
       "description": "Air terjun yang indah di tengah hutan.",
-      "imageUrl": "https://images.unsplash.com/photo-1666621345568-ff11401567ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3YXRlcmZhbGwlMjBqdW5nbGV8ZW58MHx8fHwxNzY0Mjk5MDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1666621345568-ff11401567ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3YXRlcmZhbGwlMjBqdW5nbGV8ZW58MHx8fHwxNzY0Mjk5MDIzfDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "waterfall jungle"
     },
     {
