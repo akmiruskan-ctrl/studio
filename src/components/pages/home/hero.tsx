@@ -22,7 +22,7 @@ export function Hero() {
       <div className="absolute inset-0 bg-black/50" />
       <div className="relative z-10 text-center p-4">
         <h1 className="text-4xl md:text-6xl font-headline font-bold drop-shadow-lg mb-4">
-          Selamat Datang di Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU
+          Selamat Datang di Desa BANDAR Kec.Sosoh Buay Rayap Kab.OKU
         </h1>
         <p className="text-lg md:text-xl max-w-3xl mx-auto drop-shadow-md mb-8">
           Menjelajahi keindahan alam, kekayaan budaya, dan potensi luar biasa dari desa kami.

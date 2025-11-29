@@ -46,9 +46,9 @@ export default function PotensiPage() {
   return (
     <div className="container mx-auto px-4 py-12 md:px-6 md:py-16">
       <header className="text-center mb-12">
-        <h1 className="text-4xl md:text-5xl font-bold font-headline text-primary">Potensi Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU</h1>
+        <h1 className="text-4xl md:text-5xl font-bold font-headline text-primary">Potensi Desa BANDAR Kec.Sosoh Buay Rayap Kab.OKU</h1>
         <p className="mt-4 text-lg text-muted-foreground max-w-3xl mx-auto">
-          Menjelajahi berbagai kekayaan alam, budaya, dan ekonomi yang menjadi kekuatan dan harapan masa depan Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU.
+          Menjelajahi berbagai kekayaan alam, budaya, dan ekonomi yang menjadi kekuatan dan harapan masa depan Desa BANDAR Kec.Sosoh Buay Rayap Kab.OKU.
         </p>
       </header>
       

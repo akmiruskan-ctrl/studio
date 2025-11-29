@@ -17,7 +17,7 @@ export function LatestNews() {
       <div className="container mx-auto px-4 md:px-6">
         <div className="text-center mb-10">
           <h2 className="text-3xl md:text-4xl font-bold font-headline text-primary">Berita Terkini</h2>
-          <p className="mt-2 text-lg text-muted-foreground">Ikuti perkembangan terbaru dari Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU.</p>
+          <p className="mt-2 text-lg text-muted-foreground">Ikuti perkembangan terbaru dari Desa BANDAR Kec.Sosoh Buay Rayap Kab.OKU.</p>
         </div>
         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
           {latestArticles.map((article) => {

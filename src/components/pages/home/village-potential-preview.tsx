@@ -32,7 +32,7 @@ export function VillagePotentialPreview() {
       <div className="container mx-auto px-4 md:px-6">
         <div className="text-center mb-10">
           <h2 className="text-3xl md:text-4xl font-bold font-headline text-primary">Potensi Desa</h2>
-          <p className="mt-2 text-lg text-muted-foreground">Temukan kekayaan yang dimiliki Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU.</p>
+          <p className="mt-2 text-lg text-muted-foreground">Temukan kekayaan yang dimiliki Desa BANDAR Kec.Sosoh Buay Rayap Kab.OKU.</p>
         </div>
         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
           {potentials.map((item) => {

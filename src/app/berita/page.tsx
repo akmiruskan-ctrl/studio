@@ -15,7 +15,7 @@ export default function BeritaPage() {
         <header className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold font-headline text-primary">Arsip Berita</h1>
           <p className="mt-4 text-lg text-muted-foreground max-w-3xl mx-auto">
-            Kumpulan berita dan informasi terkini seputar kegiatan dan perkembangan di Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU.
+            Kumpulan berita dan informasi terkini seputar kegiatan dan perkembangan di Desa BANDAR Kec.Sosoh Buay Rayap Kab.OKU.
           </p>
         </header>
         

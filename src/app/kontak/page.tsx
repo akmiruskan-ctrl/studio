@@ -26,7 +26,7 @@ export default function KontakPage() {
                 <MapPin className="h-6 w-6 text-primary mt-1 flex-shrink-0" />
                 <div>
                   <h3 className="font-semibold text-foreground">Alamat Kantor Desa</h3>
-                  <p>Jl. Raya Bandar No. 1, Desa Bandar, Kecamatan Sejahtera, Kabupaten Makmur, 53123</p>
+                  <p>Jl. Raya Bandar No. 1, Desa BANDAR, Kecamatan Sejahtera, Kabupaten Makmur, 53123</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">

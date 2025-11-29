@@ -2,7 +2,7 @@
   "placeholderImages": [
     {
       "id": "hero-1",
-      "description": "Pemandangan pegunungan hijau di Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU.",
+      "description": "Pemandangan pegunungan hijau di Desa BANDAR Kec.Sosoh Buay Rayap Kab.OKU.",
       "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxHcmVlbiUyMG1vdW50YWlufGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib=rb-4.0.3&q=80&w=1080",
       "imageHint": "green mountain"
     },
@@ -27,7 +27,7 @@
     {
       "id": "potential-1",
       "description": "Hamparan sawah hijau yang subur.",
-      "imageUrl": "https://images.unsplash.com/photo-1713669637183-e01a0650f44a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxncmVlbiUyMGZpZWxkc3xlbnwwfHx8fDE3NjQyOTkwMjJ8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1713669637183-e01a0650f44a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxncmVlbiUyMGZpZWxkc3xlbnwwfHx8fDE3NjQyOTkwMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "green fields"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "id": "profile-1",
-      "description": "Gapura selamat datang di Desa Bandar Kec.Sosoh Buay Rayap Kab.OKU.",
+      "description": "Gapura selamat datang di Desa BANDAR Kec.Sosoh Buay Rayap Kab.OKU.",
       "imageUrl": "https://images.unsplash.com/photo-1617638967026-9ca207b21d14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx2aWxsYWdlJTIwZ2F0ZXxlbnwwfHx8fDE3NjQyOTkwMjN8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "village gate"
     },
