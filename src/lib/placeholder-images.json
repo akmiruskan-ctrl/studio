@@ -2,9 +2,9 @@
   "placeholderImages": [
     {
       "id": "hero-1",
-      "description": "Pemandangan pegunungan hijau di Desa BANDAR Kec.Sosoh Buay Rayap Kab.OKU.",
-      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxHcmVlbiUyMG1vdW50YWlufGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib=rb-4.0.3&q=80&w=1080",
-      "imageHint": "green mountain"
+      "description": "Pemandangan sungai yang mengalir dengan jembatan di Desa BANDAR Kec.Sosoh Buay Rayap Kab.OKU.",
+      "imageUrl": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyaXZlciUyMGJyaWRnZXxlbnwwfHx8fDE3NjQzMDQwODB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "river bridge"
     },
     {
       "id": "news-1",
