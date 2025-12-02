@@ -45,6 +45,12 @@ const nextConfig: NextConfig = {
         hostname: "encrypted-tbn0.gstatic.com",
         port: "",
         pathname: "/**",
+      },
+      {
+        protocol: "https",
+        hostname: "png.pngtree.com",
+        port: "",
+        pathname: "/**",
       }
     ],
   },
@@ -54,4 +60,6 @@ export default nextConfig;
 
     
     
+    
+
     
