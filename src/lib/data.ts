@@ -39,5 +39,15 @@ export const newsArticles: NewsArticle[] = [
     author: 'Tim Redaksi Desa',
     publishedAt: '2024-07-05',
     imageId: 'news-3',
+  },
+  {
+    id: '4',
+    slug: 'waspada-dbd-di-oku',
+    title: 'Dinkes OKU, Sumatera Selatan, Minta Warga Waspadai DBD',
+    excerpt: 'Dinas Kesehatan Kabupaten Ogan Komering Ulu (OKU), Sumatera Selatan, meminta seluruh masyarakat di daerah itu untuk waspada terhadap penyebaran penyakit Demam Berdarah Dengue (DBD) selama musim pancaroba.',
+    content: '<p>Kepala Dinas Kesehatan (Dinkes) OKU, Dedi Wijaya, menyatakan bahwa selama musim pancaroba, potensi penyebaran DBD cenderung meningkat. Oleh karena itu, masyarakat diimbau untuk aktif melakukan Pemberantasan Sarang Nyamuk (PSN) guna mencegah perkembangbiakan nyamuk Aedes aegypti, penyebar virus dengue.</p><p>"Kunci utama pencegahan DBD adalah melalui PSN dengan gerakan 3M Plus, yaitu Menguras tempat penampungan air, Menutup rapat tempat-tempat penampungan air, dan Memanfaatkan kembali atau mendaur ulang barang bekas yang memiliki potensi untuk jadi tempat perkembangbiakan nyamuk," jelas Dedi Wijaya.</p><p>Selain itu, gerakan "Plus" mencakup kegiatan pencegahan lainnya seperti menaburkan bubuk larvasida, menggunakan obat nyamuk, dan memelihara ikan pemakan jentik nyamuk. Dinkes juga mengaktifkan kembali juru pemantau jentik (jumantik) di setiap desa untuk memonitor dan memberikan edukasi kepada masyarakat secara langsung.</p>',
+    author: 'Antara News Sumsel',
+    publishedAt: '2024-08-01',
+    imageId: 'news-4',
   }
 ];

@@ -9,7 +9,7 @@
     {
       "id": "news-1",
       "description": "Warga desa merayakan festival panen raya dengan gembira.",
-      "imageUrl": "https://images.unsplash.com/photo-1659257193040-de45f66216d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxoYXJ2ZXN0JTIwZmVzdGl2YWx8ZW58MHx8fHwxNzY0Mjk3ODYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1659257193040-de45f66216d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxoYXJ2ZXN0JTIwZmVzdGl2YWx8ZW58MHx8fHwxNzY0Mjk3ODYyfDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "harvest festival"
     },
     {
@@ -23,6 +23,12 @@
       "description": "Pelaku UMKM sedang mengikuti pelatihan digital di balai desa.",
       "imageUrl": "https://images.unsplash.com/photo-1580893195730-1282f408b0d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkaWdpdGFsJTIwd29ya3Nob3B8ZW58MHx8fHwxNzY0Mjk5MDIzfDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "digital workshop"
+    },
+    {
+      "id": "news-4",
+      "description": "Ilustrasi nyamuk Aedes aegypti, penyebar demam berdarah.",
+      "imageUrl": "https://images.unsplash.com/photo-1563701633545-a921c3d13d77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb3NxdWl0b3xlbnwwfHx8fDE3NjQzMDQwODB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "mosquito disease"
     },
     {
       "id": "potential-1",
