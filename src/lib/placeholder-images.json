@@ -2,9 +2,9 @@
   "placeholderImages": [
     {
       "id": "hero-1",
-      "description": "Pemandangan sungai yang mengalir dengan jembatan di Desa BANDAR Kec.Sosoh Buay Rayap Kab.OKU.",
-      "imageUrl": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyaXZlciUyMGJyaWRnZXxlbnwwfHx8fDE3NjQzMDQwODB8MA&ixlib=rb-4.0.3&q=80&w=1080",
-      "imageHint": "river bridge"
+      "description": "Pemandangan desa dengan sawah terasering.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnr8eqLjg2zwP1kneBK4oMFEutMBFhQLx9SA&s",
+      "imageHint": "village landscape"
     },
     {
       "id": "news-1",
@@ -39,7 +39,7 @@
     {
       "id": "potential-2",
       "description": "Air terjun yang indah di tengah hutan.",
-      "imageUrl": "https://images.unsplash.com/photo-1666621345568-ff11401567ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3YXRlcmZhbGwlMjBqdW5nbGV8ZW58MHx8fHwxNzY0Mjk5MDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1666621345568-ff11401567ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3YXRlcmZhbGwlMjBqdW5nbGV8ZW58MHx8fHwxNzY0Mjk5MDIzfDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "waterfall jungle"
     },
     {

@@ -39,6 +39,12 @@ const nextConfig: NextConfig = {
         hostname: 'imgcdn.espos.id',
         port: '',
         pathname: '/**',
+      },
+      {
+        protocol: "https",
+        hostname: "encrypted-tbn0.gstatic.com",
+        port: "",
+        pathname: "/**",
       }
     ],
   },
@@ -46,5 +52,6 @@ const nextConfig: NextConfig = {
 
 export default nextConfig;
 
+    
     
     
