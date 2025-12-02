@@ -33,6 +33,12 @@ const nextConfig: NextConfig = {
         hostname: 'img.antaranews.com',
         port: '',
         pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'imgcdn.espos.id',
+        port: '',
+        pathname: '/**',
       }
     ],
   },
@@ -40,4 +46,5 @@ const nextConfig: NextConfig = {
 
 export default nextConfig;
 
+    
     
