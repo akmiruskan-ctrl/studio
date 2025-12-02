@@ -45,7 +45,7 @@
     {
       "id": "potential-3",
       "description": "Kerajinan tangan dari bambu yang dipajang.",
-      "imageUrl": "https://images.unsplash.com/photo-1759142761123-9ab45592b5f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiYW1ib28lMjBjcmFmdHN8ZW58MHx8fHwxNzY0Mjk5MDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1759142761123-9ab45592b5f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiYW1ib28lMjBjcmFmdHN8ZW58MHx8fHwxNzY0Mjk5MDIzfDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "bamboo crafts"
     },
     {
@@ -57,25 +57,25 @@
     {
       "id": "potential-5",
       "description": "Upacara adat tradisional dengan pakaian khas.",
-      "imageUrl": "https://images.unsplash.com/photo-1679141435935-7d8ff9659c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjdWx0dXJhbCUyMGNlcmVtb255fGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1679141435935-7d8ff9659c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjdWx0dXJhbCUyMGNlcmVtb255fGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "cultural ceremony"
     },
     {
       "id": "potential-6",
       "description": "Panel surya terpasang di atap rumah warga.",
-      "imageUrl": "https://images.unsplash.com/photo-1668097613572-40b7c11c8727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzb2xhciUyMHBhbmVsc3xlbnwwfHx8fDE3NjQyMTA5MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1668097613572-40b7c11c8727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzb2xhciUyMHBhbmVsc3xlbnwwfHx8fDE3NjQyMTA5MDZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "solar panels"
     },
     {
       "id": "profile-1",
-      "description": "Gapura selamat datang di Desa BANDAR Kec.Sosoh Buay Rayap Kab.OKU.",
+      "description": "Gapura selamat datang di Desa BANDAR.",
       "imageUrl": "https://images.unsplash.com/photo-1617638967026-9ca207b21d14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx2aWxsYWdlJTIwZ2F0ZXxlbnwwfHx8fDE3NjQyOTkwMjN8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "village gate"
     },
     {
       "id": "gallery-1",
       "description": "Anak-anak bermain di sungai yang jernih.",
-      "imageUrl": "https://images.unsplash.com/photo-1647733389138-ab36381ed79f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaGlsZHJlbiUyMHJpdmVyfGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1647733389138-ab36381ed79f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaGlsZHJlbiUyMHJpdmVyfGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "children river"
     },
     {
@@ -87,7 +87,7 @@
     {
       "id": "gallery-3",
       "description": "Pemandangan matahari terbenam di atas bukit.",
-      "imageUrl": "https://images.unsplash.com/photo-1748549544784-16c12cd5f2e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoaWxsJTIwc3Vuc2V0fGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1748549544784-16c12cd5f2e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoaWxsJTIwc3Vuc2V0fGVufDB8fHx8MTc2NDI5OTAyM3ww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "hill sunset"
     },
     {
