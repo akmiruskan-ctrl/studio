@@ -57,6 +57,12 @@ const nextConfig: NextConfig = {
         hostname: "media.istockphoto.com",
         port: "",
         pathname: "/**",
+      },
+      {
+        protocol: "https",
+        hostname: "img.inews.co.id",
+        port: "",
+        pathname: "/**",
       }
     ],
   },
@@ -69,3 +75,4 @@ export default nextConfig;
     
 
     
+
