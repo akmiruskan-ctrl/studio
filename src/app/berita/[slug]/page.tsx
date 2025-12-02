@@ -16,8 +16,8 @@ function getArticle(slug: string): NewsArticle | undefined {
   return newsArticles.find((article) => article.slug === slug);
 }
 
-export default function BeritaDetailPage({ params }: { params: { slug: string } }) {
-  const article = getArticle(params.slug);
+export default async function BeritaDetailPage({ params }: { params: { slug: string } }) {
+  const article = await Promise.resolve(getArticle(params.slug));
 
   if (!article) {
     notFound();
