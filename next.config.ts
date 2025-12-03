@@ -65,9 +65,17 @@ const nextConfig: NextConfig = {
         hostname: "img.inews.co.id",
         port: "",
         pathname: "/**",
+      },
+      {
+        protocol: "https",
+        hostname: "barakudamarine.id",
+        port: "",
+        pathname: "/**",
       }
     ],
   },
 };
 
 export default nextConfig;
+
+    

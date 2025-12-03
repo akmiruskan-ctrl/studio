@@ -2,9 +2,9 @@
   "placeholderImages": [
     {
       "id": "hero-1",
-      "description": "Pemandangan desa dengan sawah terasering.",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnr8eqLjg2zwP1kneBK4oMFEutMBFhQLx9SA&s",
-      "imageHint": "village landscape"
+      "description": "Warga desa sedang membersihkan sungai.",
+      "imageUrl": "https://barakudamarine.id/wp-content/uploads/2022/08/img-artikel-beberapa-cara-membersihkan-sungai-1.jpg",
+      "imageHint": "river cleaning"
     },
     {
       "id": "news-1",
@@ -20,9 +20,9 @@
     },
     {
       "id": "news-3",
-      "description": "Pelaku UMKM sedang mengikuti pelatihan digital di balai desa.",
+      "description": "Ibu Komala Sari dan timnya sedang membuat roti.",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwhzTZDNQROMuTSVYe8BWs3EU_mbibwNi4cw&s",
-      "imageHint": "digital workshop"
+      "imageHint": "baking bread"
     },
     {
       "id": "news-4",
