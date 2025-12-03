@@ -25,7 +25,7 @@ export function Hero() {
           Selamat Datang di Desa BANDAR
         </h1>
         <p className="text-lg md:text-xl max-w-3xl mx-auto drop-shadow-md mb-8">
-          Menjelajahi keindahan alam, kekayaan budaya, dan potensi luar biasa dari desa kami.
+          Menjelajahi Keindahan dan Potensi Alam desa Bandar
         </p>
         <Button asChild size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90">
           <Link href="/profil">
