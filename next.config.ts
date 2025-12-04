@@ -71,6 +71,12 @@ const nextConfig: NextConfig = {
         hostname: "barakudamarine.id",
         port: "",
         pathname: "/**",
+      },
+      {
+        protocol: "https",
+        hostname: "www.fomac.co.id",
+        port: "",
+        pathname: "/**",
       }
     ],
   },
